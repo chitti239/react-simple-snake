@@ -19,6 +19,7 @@ function GameOver(props) {
         <div id='PressSpaceText'>Press Space to restart</div>
       </div>
     </div>
+    
   )
 }
 
